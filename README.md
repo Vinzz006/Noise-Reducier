@@ -21,5 +21,5 @@ Supports both **WAV and MP3**. Works instantly on Hugging Face Spaces.
 
 **Tech Stack:** Python + Streamlit + noisereduce
 
-Check out the configuration reference at [Hugging Face Spaces Config](https://huggingface.co/docs/hub/spaces-config-reference)
+
 
