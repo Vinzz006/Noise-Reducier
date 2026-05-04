@@ -1,0 +1,6 @@
+streamlit
+soundfile
+pydub
+audioop_lts
+noisereduce
+numpy
